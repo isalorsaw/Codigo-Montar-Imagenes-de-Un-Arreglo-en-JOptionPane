@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Clase1410
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=a
+comment2.target=void\ imprimir(int[])
+comment3.params=a
+comment3.target=void\ imprimirImagenes(int[])
+comment4.params=a
+comment4.target=int\ imprimirImagenesPreguntando(int[])
+numComments=5
